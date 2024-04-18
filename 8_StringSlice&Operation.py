@@ -6,6 +6,9 @@ print(names[0:6])  # o/p : Ritika
 names="Ritika,Priya"
 print(len(names))
 
+Shop="Vegetable"
+print(len(Shop))
+
 
 fruit="Mango"
 Mangolen=len(fruit)
