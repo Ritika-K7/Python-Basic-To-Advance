@@ -30,3 +30,25 @@ heading="introduction to js"
 print(heading.capitalize())
 heading2="intro tO pD" #by mistake capital - O & D
 print(heading2.capitalize())
+
+#center()
+str1="Welcome to terminal!!"
+print(str1.center(50))
+# We can also provide padding character. It will fill the rest of the fill 
+# characters provided by the user.
+str1="Welcome to terminal!!"
+print(str1.center(50,"."))
+
+#count()
+e="Let's play a game with a bat."
+print(e.count("a"))
+
+#endswith()-return True/False
+str2="Bornhill star light cause happiness!!!"
+print(str2.endswith("!!!"))
+str3="Welcome to console!!!"
+print(str3.endswith("to",4,10))
+
+#find()-return index of first occurance of given value
+str4="He's name is Dan. He is an honest man."
+print(str4.find("is"))
