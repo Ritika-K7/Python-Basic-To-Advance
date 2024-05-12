@@ -30,3 +30,16 @@ else:
 ''' NOTE :Ther is" NO Do-While loop" in python exist .
 To achive same functionality we can use statements 
 like break,continue  '''
+
+# Question :Emulate do while loop
+''' while True:
+    Do some processing...
+    Update the condition...
+    if condition:
+    break '''
+
+while True:
+    n=int(input("Enter number:"))
+    print(n)
+    if not n >0:
+        break
