@@ -33,11 +33,10 @@ like break,continue  '''
 
 # Question :Emulate do while loop
 ''' while True:
-    Do some processing...
-    Update the condition...
+    # Do some processing...
+    # Update the condition...
     if condition:
     break '''
-
 while True:
     n=int(input("Enter number:"))
     print(n)
