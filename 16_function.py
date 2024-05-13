@@ -21,7 +21,7 @@ def isGreater(a,b):
         print("Second number is greater or equal") 
 
 
-# I dont want to give function body now ->pass -> it means do noting python i will come and complete it.
+# I dont want to give function body now ->pass-> it means do noting python i will come and complete it.
 def isLesser(a,b):
     pass
 
@@ -34,3 +34,6 @@ d=9
 isGreater(c,d)
 calculateGmean(c,d)
 
+# function
+# 1.Built-in function - min(),max(),sum() etc
+# 2.User define  - using def keyword 
