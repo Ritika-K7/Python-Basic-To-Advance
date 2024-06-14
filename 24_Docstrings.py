@@ -1,6 +1,11 @@
 # Python docstrings are the string literals that appear right after the definition of a 
 # function, method, class, or module.
 
+# SYNTAX: 
+# def myfunc():
+#     <Docstring>
+#     <function body>
+
 def  square(n):
     '''Takes in a numbern,returns the
     square of n'''
@@ -17,3 +22,9 @@ print(square.__doc__)
 #
 # Python docstring are strings used after the definition od a function ,method,class or midule .
 # They are use to document our code.
+# -------------------------------------------------------------------------------------------------------------------------------
+
+
+#                            PEP 8 
+# Python Enhancement Proposal 
+# The Zen of Python
