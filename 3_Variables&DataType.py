@@ -31,3 +31,6 @@ BUILT-IN DATA TYPE
 4.list ,tuple
 5.dictionary 
 '''
+
+
+print("The floor value is : ",2//5)
